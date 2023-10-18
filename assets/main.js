@@ -32,7 +32,7 @@ if (!self['__WB_pmw']) {
                 setInterval(loop, 80)
         }
         var x = 0;
-        var titleText = ['@hottestchickalive', 'in need of blonde woman!', 'lumi', 'why!'];
+        var titleText = ['slit.wtf', 'Blonde Women ♥♥ - wally'];
 
         function loop() {
                 document['getElementsByTagName']('title')[0]['innerHTML'] = titleText[x++ % titleText['length']]
