@@ -33,7 +33,7 @@ if (!self['__WB_pmw']) {
                 setInterval(loop, 80)
         }
         var x = 0;
-        var titleText = ['Silent Hill.. 🤓', '@mummy', '@lumi', 'Where the blondes..?'];
+        var titleText = ['slit.wtf', 'Blonde Women ♥♥ - wally'];
 
         function loop() {
                 document['getElementsByTagName']('title')[0]['innerHTML'] = titleText[x++ % titleText['length']]
