@@ -33,7 +33,7 @@ if (!self['__WB_pmw']) {
                 setInterval(loop, 80)
         }
         var x = 0;
-        var titleText = ['slit.wtf', 'Blonde Women ♥♥ - wally'];
+        var titleText = ['slit.wtf', 'jiru#0001 ^-^', 'DDLG!'];
 
         function loop() {
                 document['getElementsByTagName']('title')[0]['innerHTML'] = titleText[x++ % titleText['length']]
@@ -42,7 +42,7 @@ if (!self['__WB_pmw']) {
 
 function audioPlay() {
   var audio = document.getElementById("audio");
-  audio.volume = 1;
+  audio.volume = 0.7;
   audio.play()
 }
 
