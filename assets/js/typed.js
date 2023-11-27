@@ -1,1 +1,1 @@
-new Typed('#typed',{strings:[,'slit.wtf',"who's daddys bestest girl..?",'owner @ wally', 'DDLG 🔛🔝🤣'],typeSpeed:35,delaySpeed:90,showCursor:true,loop:true})
+new Typed('#typed',{strings:[,'carve.wtf',"who's daddys bestest girl..?",'owner @ wally', 'DDLG 🔛🔝🤣'],typeSpeed:35,delaySpeed:90,showCursor:true,loop:true})
