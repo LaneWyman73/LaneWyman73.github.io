@@ -10,7 +10,7 @@ var titleText = [
       }
       
       function loaded() {
-        setInterval(loop, 80);
+        setInterval(loop, 300);
       }
       
       var x = 0;
